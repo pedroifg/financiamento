@@ -1,3 +1,4 @@
+## Exercício JavaScript
 
 - Sobre o exercício:
   - Este exercício foi feito para informar ao usuário se será disponibilizado um emprestimo. Caso o usuário solicite um emprestimo mais que seu salário em cinco vezes, o emprestimo não será concedido.
